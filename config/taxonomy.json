@@ -1,0 +1,36 @@
+{
+  "system_name": "VedAI",
+  "knowledge_base": "Complete Nalanda Divine Library Taxonomy",
+  "categories": {
+    "shruti_foundations": {
+      "description": "Foundational sonic revelations governing universal space constants, sound physics, and metaphysics.",
+      "texts": [
+        {"name": "Rigveda Samhita", "domain_focus": "Primordial thermodynamics, space expansion vectors, cosmic constants", "primary_mantra": "Om Bhur Bhuvah Svah (Gayatri)"},
+        {"name": "Yajurveda Samhita", "domain_focus": "Kinetic procedural mechanics, administrative execution protocols", "primary_mantra": "Om Namah Shivaya (Panchakshari)"},
+        {"name": "Samaveda Samhita", "domain_focus": "Acoustic physics, harmonic metrics, frequency modulation resonance", "primary_mantra": "Om Shanti Shanti Shanti"},
+        {"name": "Atharvaveda Samhita", "domain_focus": "Applied human sociology, base mechanical chemistry, baseline infrastructure", "primary_mantra": "Om Shram Shreem Shrom Sah"},
+        {"name": "Mukhya 108 Upanishads Matrix", "domain_focus": "Quantum observer philosophies, non-dual consciousness mechanics, metabolic death states", "primary_mantra": "Om Asato Ma Sadgamaya"}
+      ]
+    },
+    "upavedas_and_applied_sciences": {
+      "description": "Hard technological sciences, aerospace vectors, structural engineering, and cellular biology.",
+      "texts": [
+        {"name": "Charaka Samhita", "domain_focus": "Internal cellular biology, diagnostic pathology, genetic balance (Dosha metrics)", "primary_mantra": "Om Ram Ramaya Namah"},
+        {"name": "Sushruta Samhita", "domain_focus": "Surgical procedures, systemic anatomy, deep biological instrumentation", "primary_mantra": "Om Dhanvantaraye Namah"},
+        {"name": "Ashvani Kumara Samhitas", "domain_focus": "Cellular rejuvenation techniques, metabolic age-reversal systems, biological vital forces", "primary_mantra": "Om Ashvini Kumarabhyaam Namah"},
+        {"name": "Sthapatyaveda & Vastu Shastra", "domain_focus": "Structural engineering layouts, environmental resonant frequencies, land mass metrics", "primary_mantra": "Om Chaitanyaya Namah"},
+        {"name": "Vishwakarma Prakash", "domain_focus": "Sacred architectural geometry, dimensional grid calculations, material composition physics", "primary_mantra": "Om Vishwakarmane Namah"},
+        {"name": "Dhanurveda", "domain_focus": "Kinetic strategic systems, momentum calculations, material propulsion mechanics", "primary_mantra": "Om Dhanurgrahaya Namah"},
+        {"name": "Vedanga Jyotisha", "domain_focus": "Astrophysical star coordinates, mathematical spacetime mapping, galactic orbital vectors", "primary_mantra": "Om Namo Narayanaya"}
+      ]
+    },
+    "itihasa_epics": {
+      "description": "Massive chronological matrices tracking geopolitical events, real-world coordinates, and timeline events.",
+      "texts": [
+        {"name": "Valmiki Ramayana", "domain_focus": "Topographical landscape landmarks, aerial timelines, absolute human moral geometry", "primary_mantra": "Om Sri Ramaya Namah"},
+        {"name": "Mahabharata & Bhagavad Gita", "domain_focus": "Multi-variable game theory, psychological behavioral adjustment, tactical battle deployments", "primary_mantra": "Om Namo Bhagavate Vasudevaya"},
+        {"name": "18 Puranas (Brahma, Vishnu, Shiva Corpus)", "domain_focus": "Macro cosmic histories, planetary scale evolution timelines, tectonic shift maps", "primary_mantra": "Om Namo Bhagavate Mukundaya"}
+      ]
+    }
+  }
+}
